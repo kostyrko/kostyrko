@@ -12,14 +12,20 @@ Junior Front-end developer
 
 <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="24" height="24"/> &nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/gulp/gulp-plain.svg" alt="gulp" width="24" height="24"/> &nbsp; <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="24" height="24"/>&nbsp;<img alt="VS Code" title="VS Code" src="https://user-images.githubusercontent.com/1680157/87443751-492e6900-c5cc-11ea-9854-f82d4d921133.png" height="24"><br>
 
-and a bit with Python :snake: (i.a. Flask) 
+and a bit with &nbsp;&nbsp;<img alt="Python" title="Python" src="https://www.seekicon.com/free-icon-download/python-icon_4.svg" height="24">  (&nbsp;&nbsp;<img alt="Flaks" title="Flask" src="https://www.seekicon.com/free-icon-download/flask-icon_6.svg" height="24">&nbsp;&nbsp;) &nbsp;&nbsp; and &nbsp;&nbsp;<img alt="Jest" title="Jest" src="https://www.seekicon.com/free-icon-download/jest-icon_2.svg" height="24">
   
 ### Currently I am further exploring
 
 <img alt="ReactJS" title="ReactJS" src="https://cdn.worldvectorlogo.com/logos/react.svg" height="24">
 
-### In the feature I am planing to tackle 
-GatsbyJS, Node.js and Express.js
+**and learning**
+
+<img alt="Redux" title="Redux" src="https://www.seekicon.com/free-icon-download/redux-icon_2.svg" height="24">
+
+
+### In the feature I am planing to tackle
+<img alt="Gatsby" title="Gatsby" src="https://www.seekicon.com/free-icon-download/gatsbyjs-icon_1.svg" height="24"> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Node.js" title="Node.js" src="https://www.seekicon.com/free-icon-download/nodejs-wordmark-icon_1.svg" height="24"> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Express" title="Express" src="https://expressjs.com/images/express-facebook-share.png" height="24"> 
+
 
 ---
 
