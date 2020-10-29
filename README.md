@@ -24,7 +24,8 @@ and a bit with &nbsp;&nbsp;<img alt="Python" title="Python" src="https://www.see
 
 
 ### In the feature I am planing to tackle
-<img alt="Gatsby" title="Gatsby" src="https://www.seekicon.com/free-icon-download/gatsbyjs-icon_1.svg" height="24"> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Node.js" title="Node.js" src="https://www.seekicon.com/free-icon-download/nodejs-wordmark-icon_1.svg" height="24"> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Express" title="Express" src="https://expressjs.com/images/express-facebook-share.png" height="24"> 
+<img alt="typescript" title="TypeScript" src="https://www.seekicon.com/free-icon-download/typescript-icon_2.svg" height="24"> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Gatsby" title="Gatsby" src="https://www.seekicon.com/free-icon-download/gatsbyjs-icon_1.svg" height="24"> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Node.js" title="Node.js" src="https://www.seekicon.com/free-icon-download/nodejs-wordmark-icon_1.svg" height="24"> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Express" title="Express" src="https://expressjs.com/images/express-facebook-share.png" height="24"> 
+
 
 
 ---
