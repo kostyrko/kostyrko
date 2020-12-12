@@ -16,16 +16,16 @@ and a bit with &nbsp;&nbsp;<img alt="Python" title="Python" src="https://www.see
   
 ### Currently I am further exploring
 
-<img alt="ReactJS" title="ReactJS" src="https://cdn.worldvectorlogo.com/logos/react.svg" height="24"> &nbsp; <img alt="Redux" title="Redux" src="https://www.seekicon.com/free-icon-download/redux-icon_2.svg" height="24">
+<img alt="Redux" title="Redux" src="https://www.seekicon.com/free-icon-download/redux-icon_2.svg" height="24"> &nbsp; <img alt="typescript" title="TypeScript" src="https://www.seekicon.com/free-icon-download/typescript-icon_2.svg" height="24"> &nbsp;
 
 **and learning**
 
-<img alt="typescript" title="TypeScript" src="https://www.seekicon.com/free-icon-download/typescript-icon_2.svg" height="24"> &nbsp; <img alt="WordPress" title="WordPress" src="https://www.seekicon.com/free-icon-download/wordpress-icon_7.svg" height="24">
+ <img alt="WordPress" title="WordPress" src="https://www.seekicon.com/free-icon-download/wordpress-icon_7.svg" height="24"> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Angular" title="Angular" src="https://www.seekicon.com/free-icon-download/angular-icon_4.svg" height="24">
 
 
 
 ### In the feature I am planing to tackle
-<img alt="Gatsby" title="Gatsby" src="https://www.seekicon.com/free-icon-download/gatsbyjs-icon_1.svg" height="24"> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Node.js" title="Node.js" src="https://www.seekicon.com/free-icon-download/nodejs-wordmark-icon_1.svg" height="24"> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Express" title="Express" src="https://expressjs.com/images/express-facebook-share.png" height="24"> &nbsp; <img alt="Angular" title="Angular" src="https://www.seekicon.com/free-icon-download/angular-icon_4.svg" height="24">
+<img alt="Gatsby" title="Gatsby" src="https://www.seekicon.com/free-icon-download/gatsbyjs-icon_1.svg" height="24"> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Node.js" title="Node.js" src="https://www.seekicon.com/free-icon-download/nodejs-wordmark-icon_1.svg" height="24"> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Express" title="Express" src="https://expressjs.com/images/express-facebook-share.png" height="24"> 
 
 
 
