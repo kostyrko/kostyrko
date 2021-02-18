@@ -6,8 +6,8 @@ Front-end developer
 
 
 <br><img alt="CSS" title="CSS" src="https://user-images.githubusercontent.com/1680157/87443759-4a5f9600-c5cc-11ea-8ae0-715433c1f781.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="HTML" title="HTML" src="https://user-images.githubusercontent.com/1680157/87443762-4af82c80-c5cc-11ea-85cf-57be0e83c169.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp; <img alt="typescript" title="TypeScript" src="https://www.seekicon.com/free-icon-download/typescript-icon_2.svg" height="24"> &nbsp;<img alt="SaSS" title="SASS" src="https://www.pngkit.com/png/detail/377-3771972_sass.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="HTML" title="HTML" src="https://user-images.githubusercontent.com/1680157/87443762-4af82c80-c5cc-11ea-85cf-57be0e83c169.png" height="24">&nbsp;&nbsp;
+<img alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp; <img alt="typescript" title="TypeScript" src="https://www.seekicon.com/free-icon-download/typescript-icon_2.svg" height="24"> &nbsp;<img alt="SaSS" title="SASS" src="https://www.pngkit.com/png/detail/377-3771972_sass.png" height="24">&nbsp;&nbsp;
 <img alt="ReactJS" title="ReactJS" src="https://cdn.worldvectorlogo.com/logos/react.svg" height="24"> &nbsp; <img alt="Redux" title="Redux" src="https://www.seekicon.com/free-icon-download/redux-icon_2.svg" height="24"> &nbsp; <img alt="jQuery" title="jQuery" src="https://www.seekicon.com/free-icon-download/jquery-icon_1.svg" height="24"> &nbsp; <img alt="Bootstrap" title="Bootstrap" src="https://www.seekicon.com/free-icon-download/bootstrap-icon_7.svg" height="24"> &nbsp;
 
 <img alt="Git" title="Git" src="https://user-images.githubusercontent.com/1680157/87443755-49c6ff80-c5cc-11ea-954a-579f7c72873a.png" height="24">&nbsp;
@@ -17,11 +17,11 @@ and a bit with &nbsp;&nbsp;<img alt="Python" title="Python" src="https://www.see
   
 ### Currently I am further exploring
 
-<img alt="Redux" title="Redux" src="https://www.seekicon.com/free-icon-download/redux-icon_2.svg" height="24"> &nbsp; <img alt="typescript" title="TypeScript" src="https://www.seekicon.com/free-icon-download/typescript-icon_2.svg" height="24"> &nbsp;
+<img alt="typescript" title="TypeScript" src="https://www.seekicon.com/free-icon-download/typescript-icon_2.svg" height="24"> &nbsp;
 
 **and learning**
 
- <img alt="WordPress" title="WordPress" src="https://www.seekicon.com/free-icon-download/wordpress-icon_7.svg" height="24"> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Angular" title="Angular" src="https://www.seekicon.com/free-icon-download/angular-icon_4.svg" height="24">
+<img alt="Angular" title="Angular" src="https://www.seekicon.com/free-icon-download/angular-icon_4.svg" height="24"> &nbsp;&nbsp; <img alt="Cypress" title="Cypress" src="https://seekicon.com/free-icon-download/cypress-icon_1.svg" height="24"> &nbsp;&nbsp; <img alt="WordPress" title="WordPress" src="https://www.seekicon.com/free-icon-download/wordpress-icon_7.svg" height="24"> &nbsp;&nbsp;
 
 
 
