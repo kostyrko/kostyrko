@@ -17,11 +17,11 @@ and a bit with &nbsp;&nbsp;<img alt="Python" title="Python" src="https://www.see
   
 ### Currently I am further exploring
 
-<img alt="typescript" title="TypeScript" src="https://www.seekicon.com/free-icon-download/typescript-icon_2.svg" height="24"> &nbsp;
+<img alt="typescript" title="TypeScript" src="https://www.seekicon.com/free-icon-download/typescript-icon_2.svg" height="24"> &nbsp; &nbsp; <img alt="Angular" title="Angular" src="https://www.seekicon.com/free-icon-download/angular-icon_4.svg" height="24"> &nbsp;&nbsp; <img alt="Cypress" title="Cypress" src="https://seekicon.com/free-icon-download/cypress-icon_1.svg" height="24">
 
 **and learning**
 
-<img alt="Angular" title="Angular" src="https://www.seekicon.com/free-icon-download/angular-icon_4.svg" height="24"> &nbsp;&nbsp; <img alt="Cypress" title="Cypress" src="https://seekicon.com/free-icon-download/cypress-icon_1.svg" height="24"> &nbsp;&nbsp; <img alt="WordPress" title="WordPress" src="https://www.seekicon.com/free-icon-download/wordpress-icon_7.svg" height="24"> &nbsp;&nbsp;
+ <img alt="WordPress" title="WordPress" src="https://www.seekicon.com/free-icon-download/wordpress-icon_7.svg" height="24"> &nbsp;&nbsp;
 
 
 
