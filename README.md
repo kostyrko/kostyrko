@@ -1,8 +1,6 @@
-## Hi :wave: I'm Mikołaj Kostyrko
+## Hi :wave:
 
-Front-end developer
-
-## I have experience working with:
+#### I have experience working with:
 
 
 <br><img alt="Angular" title="Angular" src="https://www.seekicon.com/free-icon-download/angular-icon_4.svg" height="24"> &nbsp;&nbsp; <img alt="Cypress" title="Cypress" src="https://seekicon.com/free-icon-download/cypress-icon_1.svg" height="24"> &nbsp; &nbsp;<img alt="ReactJS" title="ReactJS" src="https://seekicon.com/free-icon-download/react_5.svg" height="24"> &nbsp;&nbsp; <img alt="typescript" title="TypeScript" src="https://www.seekicon.com/free-icon-download/typescript-icon_2.svg" height="24">&nbsp;&nbsp; <img alt="CSS" title="CSS" src="https://user-images.githubusercontent.com/1680157/87443759-4a5f9600-c5cc-11ea-8ae0-715433c1f781.png" height="24">&nbsp;&nbsp;
@@ -14,7 +12,7 @@ Front-end developer
 
 and a bit with &nbsp;&nbsp;<img alt="Python" title="Python" src="https://www.seekicon.com/free-icon-download/python-icon_4.svg" height="24">  (&nbsp;&nbsp;<img alt="Flaks" title="Flask" src="https://www.seekicon.com/free-icon-download/flask-icon_6.svg" height="24">&nbsp;&nbsp;) &nbsp;&nbsp; and &nbsp;&nbsp;<img alt="Jest" title="Jest" src="https://www.seekicon.com/free-icon-download/jest-icon_2.svg" height="24">
   
-### Currently I am further exploring
+#### Currently I am further exploring
 
 <img alt="typescript" title="TypeScript" src="https://www.seekicon.com/free-icon-download/typescript-icon_2.svg" height="24"> &nbsp; &nbsp; <img alt="Angular" title="Angular" src="https://www.seekicon.com/free-icon-download/angular-icon_4.svg" height="24"> &nbsp;&nbsp; <img alt="Cypress" title="Cypress" src="https://seekicon.com/free-icon-download/cypress-icon_1.svg" height="24">
 
@@ -24,7 +22,7 @@ and a bit with &nbsp;&nbsp;<img alt="Python" title="Python" src="https://www.see
 
 
 
-### In the feature I am planing to tackle
+#### In the feature I am planing to tackle
 <img alt="Gatsby" title="Gatsby" src="https://www.seekicon.com/free-icon-download/gatsbyjs-icon_1.svg" height="24"> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Node.js" title="Node.js" src="https://www.seekicon.com/free-icon-download/nodejs-wordmark-icon_1.svg" height="24"> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Express" title="Express" src="https://expressjs.com/images/express-facebook-share.png" height="24"> 
 
 
