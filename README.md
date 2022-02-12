@@ -17,13 +17,13 @@
 
 **and learning**
 
-<img alt="Appium" title="Cypress" src="https://seekicon.com/free-icon-download/appium_1.svg" height="24">
+<img alt="Appium" title="Cypress" src="https://seekicon.com/free-icon-download/appium_1.svg" height="24"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Gatsby" title="Gatsby" src="https://www.seekicon.com/free-icon-download/gatsbyjs-icon_1.svg" height="24">
 
 
 
 #### In the feature I am planing to tackle
-<img alt="puppeteer" title="Cypress" src="https://seekicon.com/free-icon-download/puppeteer_1.svg" height="24"> &nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Gatsby" title="Gatsby" src="https://www.seekicon.com/free-icon-download/gatsbyjs-icon_1.svg" height="24"> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Node.js" title="Node.js" src="https://www.seekicon.com/free-icon-download/nodejs-wordmark-icon_1.svg" height="24"> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Express" title="Express" src="https://expressjs.com/images/express-facebook-share.png" height="24"> 
+<img alt="puppeteer" title="Cypress" src="https://seekicon.com/free-icon-download/puppeteer_1.svg" height="24">  &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Node.js" title="Node.js" src="https://www.seekicon.com/free-icon-download/nodejs-wordmark-icon_1.svg" height="24"> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="Express" title="Express" src="https://expressjs.com/images/express-facebook-share.png" height="24"> 
 
 
 
