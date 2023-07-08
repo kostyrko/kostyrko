@@ -32,5 +32,5 @@
 ---
 
 You are welcome to visit my **[Portfolio-Page](https://kostyrko.github.io/portfolio)** if You would like to learn more about me and my background
-
-for 🇵🇱 visitors I recomend checkign out my **[zfrontu blog](https://kostyrko.github.io/zfrontu/)** focused on Front-End or **[kontrolqa blog](https://kostyrko.github.io/kontrolqa/)** fouces on QA/Test Automation
+Check out **[Controlqa blog](https://kostyrko.github.io/kontrolqa/)** for QA/Test Automation focused content
+🇵🇱 visitors I recomend checkign out my **[zfrontu blog](https://kostyrko.github.io/zfrontu/)** focused on Front-End 
